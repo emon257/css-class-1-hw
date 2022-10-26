@@ -1,0 +1,138 @@
+h5{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-decoration: underline;
+    color: #3681CF;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 700;
+}
+
+.khela_desk{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+}
+
+.prokashona{
+    font-size:15px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    color: #A4A19E;
+}
+
+span{
+    color: crimson;
+    text-decoration: underline;
+}
+
+img{
+    width: 800px;
+    display: block;
+
+}
+
+.pic_name{
+    font-size: 15px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    color: #A4A19E;
+
+}
+
+.pic_name .span_2{
+    color: #3681CF;
+    text-decoration: none;
+    font-style: italic;
+
+}
+
+.para_1{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    text-align: justify;
+    line-height: 30px;
+    color: #A4A19E;
+}
+
+.para_2{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    text-align: justify;
+    line-height: 30px;
+    color: #A4A19E;
+}
+
+.para_3{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    text-align: justify;
+    line-height: 30px;
+    color: #A4A19E;
+}
+
+.img_2{
+    width: 500px;
+    display: block;
+}
+
+.img_short_details{
+    font-size: 15px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    color: #A4A19E;
+}
+
+.img_short_details .span_3{
+    font-style: italic;
+    color: coral;
+    text-decoration: none;
+}
+
+.para_4{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    text-align: justify;
+    line-height: 30px;
+    color: #A4A19E;
+}
+
+.para_5{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    text-align: justify;
+    line-height: 30px;
+    color: #A4A19E;
+}
+
+
+.para_6{
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    text-align: justify;
+    line-height: 30px;
+    color: #A4A19E;
+}
+
+.para_7{
+    font-size: 15px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 200;
+    color:black;
+}
+
+.para_7 a{
+    font-size: 30px;
+    text-decoration: none;
+    color: dodgerblue;
+}
